@@ -4,9 +4,9 @@
 Currently working on IT Support and specializing in hardware and asset management.</br>
 I ensure our company's rental fleet of IT machines is always ready for action.</br>
 
-<h2>🐱‍💻 My Projects:</h2>
+<h2>💻 My Projects:</h2>
 
-<h2> 📱 Connect with me:</h2>
+<h2>📱 Connect with me:</h2>
 
 [<img align="left" alt="johnsarr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
