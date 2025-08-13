@@ -2,7 +2,7 @@
 <br>Currently working on IT Support and specializing in hardware and asset management.</br>
 <br>I ensure our company's rental fleet of IT machines is always ready for action.</br>
 
-
+<h2>🐱‍💻 My Projects:</h2>
 
 <h2> 📱 Connect with me:</h2>
 
