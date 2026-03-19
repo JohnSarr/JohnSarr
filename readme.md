@@ -4,7 +4,12 @@
 Currently working on IT and specializing in AWS Solutions Architect.</br>
 
 <h2>💻 My Projects:</h2>
-
+<ul>
+  <li>
+    <strong><a https://github.com/JohnSarr/AWS-acount-setup ">🚀 Creating and Setup an AWS account </a></strong> 
+    - Σχεδιασμός υποδομής υψηλής διαθεσιμότητας (PDF & Documentation).
+  </li>
+</ul>
 
 <h2>📱 Connect with me:</h2>
 
