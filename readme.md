@@ -14,7 +14,7 @@ Currently working on IT and specializing in AWS Solutions Architect.</br>
 <ul>
   <li>
     <a href="https://github.com/JohnSarr/AWS-acount-setup">
-      🚀 View my AWS Architecture Project (PDF & Docs)
+      🚀 Creating and Setup an account (PDF )
     </a>
   </li>
 </ul>
