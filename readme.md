@@ -4,13 +4,20 @@
 Currently working on IT and specializing in AWS Solutions Architect.</br>
 
 <h2>💻 My Projects:</h2>
+
+<p>
+  <a href="https://github.com/JohnSarr/AWS-acount-setup">
+    <img src="https://img.shields.io/badge/AWS-Solutions_Architecture_Project-orange?style=for-the-badge&logo=amazon-aws" alt="AWS Project" />
+  </a>
+</p>
+
 <ul>
   <li>
-    <strong><a "https://github.com/JohnSarr/AWS-acount-setup">🚀 Creating and Setup an AWS account </a></strong> 
-    
+    <a href="https://github.com/JohnSarr/AWS-acount-setup">
+      🚀 View my AWS Architecture Project (PDF & Docs)
+    </a>
   </li>
 </ul>
-
 <h2>📱 Connect with me:</h2>
 
 [<img align="left" alt="johnsarr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
