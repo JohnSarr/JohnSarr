@@ -5,10 +5,6 @@ Currently working on IT and specializing in AWS Solutions Architect.</br>
 
 <h2>💻 My Projects:</h2>
 
-<p>
-  <a href="https://github.com/JohnSarr/AWS-acount-setup">
-    <img src="https://img.shields.io/badge/AWS-Solutions_Architecture_Project-orange?style=for-the-badge&logo=amazon-aws" alt="AWS Project" />
-  </a>
 </p>
 
 <ul>
