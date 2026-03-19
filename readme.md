@@ -21,4 +21,3 @@ Currently working on IT and specializing in AWS Solutions Architect.</br>
 [<img align="left" alt="Johnsarr| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/johnsarr/
-[instagram]:https://www.instagram.com/_johnsarr_/
