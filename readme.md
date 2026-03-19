@@ -1,10 +1,10 @@
 <h1>Hi, I'm John! <br/><a href="https://github.com/johnsarr"></h1>
 
   <h2>About me </h2>
-Currently working on IT Support and specializing in hardware and asset management.</br>
-I ensure our company's rental fleet of IT machines is always ready for action.</br>
+Currently working on IT and specializing in AWS Solutions Architect.</br>
 
 <h2>💻 My Projects:</h2>
+
 
 <h2>📱 Connect with me:</h2>
 
