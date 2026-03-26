@@ -9,6 +9,16 @@ Currently working on IT and specializing in AWS Solutions Architect.</br>
 
 <ul>
   <li>
+    <a href="https://github.com/JohnSarr/Bucket-S3-hosting">
+      🚀 Creating and Setup an account (PDF )
+    </a>
+  </li>
+</ul>
+
+</p>
+
+<ul>
+  <li>
     <a href="https://github.com/JohnSarr/AWS-acount-setup">
       🚀 Creating and Setup an account (PDF )
     </a>
